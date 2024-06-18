@@ -6,7 +6,7 @@
         <title>Daniel Gerasimov</title>
         <link rel="stylesheet" href="styles2.css" />   
     </head>
-    <body style="background: rgb(179, 174, 174);">
+    <body style="background: rgb (179, 174, 174);">
        <div>
         <header id="header">
             <div class="logo">
@@ -61,7 +61,7 @@
                     <div id="step-separate">
                     <table>
                         <tr>
-                            <td> <h3 style="font-size: 40px; margin: 0px;">Briefing</h3> </td>
+                            <td> <h3 style="font-size: 40 px; margin: 0 px;">Briefing</h3> </td>
                             <td id="number-circle">1</td> 
                         </tr>
                         <th> <p id="step-describe"> Describe something jhjhghfgfgfgf </p> </th>
